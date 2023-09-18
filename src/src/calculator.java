@@ -1,3 +1,5 @@
+package src;
+
 public class calculator {
     public static void main (String[] args){
         int a, b;
